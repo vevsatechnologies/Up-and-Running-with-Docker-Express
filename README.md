@@ -84,6 +84,10 @@ $sudo docker run -p 3000:3000 -p 5000:5000 ImageName
 The node app is running on localhost:3000
 
 
+## Step 12 : Push the local docker image to docker hub
+
+docker push yourhubusername/imageName
+
 
 
 
