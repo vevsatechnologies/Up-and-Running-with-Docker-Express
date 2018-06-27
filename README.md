@@ -85,9 +85,9 @@ The node app is running on localhost:3000
 
 
 ## Step 12 : Push the local docker image to docker hub
-
-docker push yourhubusername/imageName
-
+```
+$ docker push yourhubusername/imageName
+```
 
 
 
